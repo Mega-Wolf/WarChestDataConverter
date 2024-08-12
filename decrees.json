@@ -1,0 +1,29 @@
+[
+    {
+        "id": 598772,
+        "gameId": 1362602,
+        "decreeTypeId": 1,
+        "whiteTeamId": 2724301,
+        "blackTeamId": 2724302,
+        "type": "ENLIST",
+        "name": "Enlist"
+    },
+    {
+        "id": 598773,
+        "gameId": 1362602,
+        "decreeTypeId": 5,
+        "whiteTeamId": null,
+        "blackTeamId": null,
+        "type": "REINFORCE",
+        "name": "Reinforce"
+    },
+    {
+        "id": 598774,
+        "gameId": 1362602,
+        "decreeTypeId": 4,
+        "whiteTeamId": 2724301,
+        "blackTeamId": null,
+        "type": "REDEPLOY",
+        "name": "Redeploy"
+    }
+]
