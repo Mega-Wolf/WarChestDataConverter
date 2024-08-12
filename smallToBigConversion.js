@@ -3,7 +3,7 @@ const readline = require('readline');
 
 const stringList = [
     "players","units","state","in_hand","activePlayerId","null","in_bag","position","discarded_faceup","in_supply","deployed","discarded_facedown","eliminated","recruited","false","poisonTokens","assignedUnitId","teams","controlledBases","hasInitiative","true","in_reserve","white","black","forts","undefined","unitTypeId",
-    "winningTeamId","draftingPlayerId","ranked","customUnits","choosePlayerOrder","teamId","prevSkillRating","nextSkillRating","username","ownerUnitTypeId","color","id","numOfPlayers","turnOrder","winningScore","timeLimit","nobility","royalGuardType","choosePlayOrder","settings","altFootman","altLancer","altMarshal","altTrebuchet","mastery","blitz","twoPlayersFullBoard","whiteTeamId", "blackTeamId","decrees","decreeTypeId",
+    "winningTeamId","draftingPlayerId","ranked","customUnits","choosePlayerOrder","teamId","prevSkillRating","nextSkillRating","username","ownerUnitTypeId","color","id","numOfPlayers","turnOrder","winningScore","timeLimit","nobility","royalGuardType","choosePlayOrder","settings","altFootman","altLancer","altMarshal","altTrebuchet","mastery","blitz","twoPlayersFullBoard","whiteTeamId", "blackTeamId","decrees","decreeTypeId","timeLimit","draftType","elimination_draft","random","draft",
     
         "1,0","2,0","3,0","4,0","5,0","6,0",
     "0,1","1,1","2,1","3,1","4,1","5,1","6,1",
